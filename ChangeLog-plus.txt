@@ -1,8 +1,8 @@
-{"version_code":451184,"content":"
+{"version_code":771173,"content":"
 <p>فوق العين والرأس</p>
 <li>اهلا وسهلا بكم مستخدميني الاعزاء</li>
 <LI>شكرا لاستخدامكم واتساب ابن الحاج</LI>
 <li>اتمنى ان ينال واتساب ابن الحاج اعجابكم</li>
 
-","url":"https://abnalhaj77.blogspot.com/2019/08/gb-2020.html"
+","url":"https://abnalhaj77.blogspot.com"
 }
